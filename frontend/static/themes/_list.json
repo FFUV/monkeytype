@@ -1239,11 +1239,20 @@
     "textColor": "#5c2954"
   },
   {
+<<<<<<< HEAD
     "name": "sigma",
     "bgColor": "#ced7e0",
     "mainColor": "#81c4dd",
     "subColor": "#7599b1",
     "textColor": "#3b4c58"
 
+=======
+    "name": "lean",
+    "bgColor": "#9324C6",
+    "mainColor": "#3A0453",
+    "subColor": "#CB5BFF",
+    "textColor": "#2E0043"
+>>>>>>> origin/master
   }
+
 ]
