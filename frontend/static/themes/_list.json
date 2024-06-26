@@ -1237,5 +1237,13 @@
     "mainColor": "#b94189",
     "subColor": "#e094c2",
     "textColor": "#5c2954"
+  },
+  {
+    "name": "sigma",
+    "bgColor": "#ced7e0",
+    "mainColor": "#81c4dd",
+    "subColor": "#7599b1",
+    "textColor": "#3b4c58"
+
   }
 ]
